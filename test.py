@@ -22,4 +22,4 @@ def strcounter(s):
     for sym, count in sym_dict.items():    #Перебираем все значения словаря
         print(f'{sym} - {count}')
 
-strcounter('abcc')  
+strcounter('abcc')
